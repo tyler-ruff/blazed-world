@@ -1,0 +1,7 @@
+@media only screen and (max-width: 655px){
+    .page-home{
+        position:relative;
+        margin-left:auto;
+        margin-right:auto;
+    }
+}
