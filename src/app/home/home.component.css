@@ -1,3 +1,11 @@
+/*
+    @ source: https://stackoverflow.com/questions/19713813/fade-image-to-transparent-like-a-gradient
+*/
+img {
+    -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0.4)));
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0.4));
+    z-index:-998;
+}
 @media only screen and (max-width: 655px){
     .page-home{
         position:relative;
