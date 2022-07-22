@@ -20,16 +20,15 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Blazed World
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Virtual world made by Blazed Labs LLC and Blazed Publishing.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Virtual World.
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,13 +36,13 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  https://blazed.sirv.com/logo/Beaker-White.png?w=50&h=50
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Blazed Labs LLC
+  email:               hello@blazed.space
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -59,15 +58,15 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             PRIVACY
+    url:               https://www.blazedlabs.com/privacy/
+  - title:             DMCA
+    url:               https://www.blazedlabs.com/dmca/
+  - title:             TERMS
+    url:               https://blazed.sbs/assets/pdf/tos.pdf
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022 Blazed Labs LLC. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -88,7 +87,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          https://blazed.sirv.com/logo/Beaker-White.png?w=50&h=50
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
