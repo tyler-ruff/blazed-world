@@ -2,46 +2,27 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Blazed World Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+The **Blazed World** is a virtual space where citizens may own equity and conduct business.
 
-## Getting Started
+## Citizenship
 
-Get started by **creating a new site**.
+Citizenship to our wonderful world is free. Anyone can become a citizen, all they have to do is sign up for a new account at [Blazed City](https://blazed.city/). Once signed up, a user is automatically a citizen of the Blazed Nation.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Citizenship Benefits
 
-### What you'll need
+Citizens benefit from many perks and priveleges, these include:
+- Right to own property and assets in the Blazed Nation
+- Right to own Blazed Cash (B$), bank accounts, CDs, bonds, and other financial instruments
+- Right to own companies, commit to contractual obligations, and ownership of permits
+- Right to conduct business (trade)
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+To learn more about Blazed National laws, check out our [Constitution](https://github.com/blazed-labs/city/blob/main/law/CONSTITUTION.md).
 
-## Generate a new site
+## Government
 
-Generate a new Docusaurus site using the **classic template**.
+The Blazed National Government meets every so-often to hold votes and enact ordinances. Anyone may join the governing body as a member, to do so, please refer to our government's [Facebook Group](https://www.facebook.com/blznation).
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## More Information
+To learn more about the Blazed Nation, check out our [Wiki](https://github.com/blazed-labs/city/wiki).

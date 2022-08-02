@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Blazed Nation',
-  tagline: 'We turn Dreams into Reality.',
-  url: 'https://blazed.city',
+  tagline: 'Welcome to the Blazed Virtual World.',
+  url: 'https://blazed.world',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Blazed Nation',
+        title: 'Blazed World',
         logo: {
           alt: 'Beaker - Gray',
           src: 'https://blazed.sirv.com/logo/Beaker-DarkGray.svg',
@@ -52,7 +52,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
